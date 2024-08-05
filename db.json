@@ -1,0 +1,19 @@
+{
+    "team": [
+        {
+            "id": 1,
+            "name": 1,
+            "employees": []
+        },
+        {
+            "id": 2,
+            "name": 2,
+            "employees": []
+        },
+        {
+            "id": 3,
+            "name": 3,
+            "employees": []
+        }
+    ]
+}
